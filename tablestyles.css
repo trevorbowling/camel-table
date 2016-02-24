@@ -1,0 +1,27 @@
+#camel {
+	width: 60%;
+	font-family: sans-serif;
+	vertical-align: center;
+	border-spacing: 0px;
+}
+
+
+
+th {
+	background-color: #f78c58;
+	text-align: center;
+}
+
+#header, #camelgif {
+	background-color: white;
+	
+}
+
+td {
+	background-color: #ffc966;
+	text-align: center;
+}
+
+#blank {
+	background-color: #CF482E;
+}
